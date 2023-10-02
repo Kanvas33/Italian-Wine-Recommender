@@ -15,7 +15,7 @@ This **Python project is dedicated to wine enthusiasts worldwide**, offering a s
 
 ## Project Workflow
 
-- **Data Collection**: We gathered data on over 120,000 wines from various regions worldwide, filtering out the top-rated Italian wines.
+- **Data Collection**: I gathered data on over 120,000 wines from various regions worldwide, filtering out the **top-rated Italian wines**.
 
 - **Analysis**: The **backend** of the project includes **in-depth analysis**, utilizing **libraries** such as **pandas, sklearn.feature_extraction.text, sklearn.metrics.pairwise, langdetect, and googletrans**.
 
@@ -30,7 +30,7 @@ The Web App project is designed to be **user-friendly and inclusive**. It accept
 ## Achievements and Insights
 
 - Curated a database of 5,000 high-quality Italian wines.
-- Implemented NLP-powered algorithms for wine recommendations.
+- Implemented **NLP-powered algorithms for wine recommendations**.
 - Designed an aesthetically pleasing Web App frontend.
 - Completed the backend analysis, ready for integration.
 
