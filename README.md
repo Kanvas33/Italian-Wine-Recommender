@@ -1,5 +1,7 @@
 # The Italian Wine Recommender project - Static Version
 
+## Static Version: Open the file named 'Italian Wine Recommender.ipynb' to review the code.
+
 ## Web App integration *Under Development.*
 
 ## Project Overview
