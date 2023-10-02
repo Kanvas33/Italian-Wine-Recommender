@@ -41,4 +41,3 @@ While this **static version** of '**The Italian Wine Recommender**' project prov
 Feedback and suggestions are welcome, as I continue to develop and refine this project. 
 For any questions or further information, please **feel free to contact me here or at** jeff.farias@gmail.com.
 Stay tuned for updates on our progress!
-
