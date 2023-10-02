@@ -15,9 +15,9 @@ This **Python project is dedicated to wine enthusiasts worldwide**, offering a s
 
 - **Data Collection**: We gathered data on over 120,000 wines from various regions worldwide, filtering out the top-rated Italian wines.
 
-- **Analysis**: The backend of the project includes in-depth analysis, utilizing libraries such as pandas, sklearn.feature_extraction.text, sklearn.metrics.pairwise, langdetect, and googletrans.
+- **Analysis**: The **backend** of the project includes **in-depth analysis**, utilizing **libraries** such as **pandas, sklearn.feature_extraction.text, sklearn.metrics.pairwise, langdetect, and googletrans**.
 
-- **Frontend Development**: The frontend of the web application is designed using HTML and CSS. You can preview the homepage screenshot by clicking on 'Frontend_Recommender.png' in the files section.
+- **Frontend Development**: The **frontend of the web application** is designed using **HTML and CSS**. You can preview the homepage screenshot by clicking on 'Frontend_Recommender.png' in the files section.
 
 - **Integration (Work in Progress)**: Our ongoing work involves **integrating the backend with the frontend** to provide users with personalized wine recommendations based on their preferences.
 
