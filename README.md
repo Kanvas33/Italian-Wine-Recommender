@@ -1,8 +1,10 @@
 # The Italian Wine Recommender project - Static Version
 
-## Static Version: Open the file named 'Italian Wine Recommender.ipynb' to review the code.
+## Backend(Static Version): Check the code by clicking on the link below:
 
-## Frontend: View screenshots of the Web App homepage by clicking on the links below. 
+- ['The Italian Wine Recommender'](https://github.com/Kanvas33/Italian-Wine-Recommender/blob/main/Italian%20Wine%20Recommender.ipynb)
+
+## Frontend: View screenshots of the Web App homepage by clicking on the links below:
 
 - ['The Italian Wine Recommender' Homepage: Page 1](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender.png): Web App Home page.
 - ['The Italian Wine Recommender' Homepage: Page 2](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender_2.png): Web App Home page.
