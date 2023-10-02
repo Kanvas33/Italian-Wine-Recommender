@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This **Python project is dedicated to wine enthusiasts worldwide**, offering a selection of top-notch Italian wines. With a database of over 120,000 wines from around the globe, I've curated a list of **approximately 5,000 Italian wines that have received exceptional ratings between 90 and 100**. The aim is to assist wine lovers in discovering the perfect Italian wine to complement their meals. '**The Italian Wine Recommender**' provides a list of the **top 10** wines that are **most similar to your preferences within the dataset**, achieved through meticulous **statistical analysis**.
+This **Python project is dedicated to wine enthusiasts worldwide**, offering a selection of top-notch Italian wines. With a database of almost 130,000 wines from around the globe, I've curated a list of **approximately 5,000 Italian wines that have received exceptional ratings between 90 and 100**. The aim is to assist wine lovers in discovering the perfect Italian wine to complement their meals. '**The Italian Wine Recommender**' provides a list of the **top 10** wines that are **most similar to your preferences within the dataset**, achieved through meticulous **statistical analysis**.
 
 ## Project Objectives
 
