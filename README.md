@@ -1,6 +1,6 @@
 # The Italian Wine Recommender project - Static Version
 
-## Web App integration *Under Development*
+## Web App integration *Under Development.*
 
 ## Project Overview
 
