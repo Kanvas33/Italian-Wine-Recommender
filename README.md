@@ -4,8 +4,8 @@
 
 ## Frontend: View the Web App homepage screenshots. 
 
-- ['The Italian Wine Recommender' Homepage: 1](Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender.png): Explanation of what this screenshot shows.
-- ['The Italian Wine Recommender' Homepage: 2](Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender_2.png): Explanation of the analysis in this screenshot.
+- ['The Italian Wine Recommender' Homepage: 1](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender.png): Web App Home page.
+- ['The Italian Wine Recommender' Homepage: 2](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender_2.png): Web App Home page.
 
 
 Click on 'Frontend_Recommender.png' and/or 'Frontend_Recommender_2.png' at the top of the files section.
