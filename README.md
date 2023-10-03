@@ -48,7 +48,8 @@ The Web App project is designed to be **user-friendly and inclusive**. It accept
 
 While this **static version** of '**The Italian Wine Recommender**' project provides a glimpse into what's to come, I am **actively working** on the **interactive Web Application**. The future holds exciting prospects for wine enthusiasts, as they will soon have the ability to receive tailored **wine recommendations based on their preferences**.
 
-Feedback and suggestions are welcome, as I continue to develop and refine this project. 
-For any questions or further information, please **feel free to contact me here or at** jeff.farias@gmail.com.
+Feedback and suggestions are **welcome**, as I continue to develop and refine this project. 
+
+#### For any questions or further information, please feel free to contact me here or at jeff.farias@gmail.com.
 
 Stay tuned for updates on our progress!
