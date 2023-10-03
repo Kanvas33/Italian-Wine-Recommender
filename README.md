@@ -4,10 +4,9 @@
 
 - ['The Italian Wine Recommender'](https://github.com/Kanvas33/Italian-Wine-Recommender/blob/main/Italian%20Wine%20Recommender.ipynb)
 
-## Frontend: View screenshots of the Web App homepage by clicking on the links below:
+## Frontend: View the GIF of the Web App homepage below:
 
-- ['The Italian Wine Recommender' Homepage: Page 1](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender.png): Web App Home page.
-- ['The Italian Wine Recommender' Homepage: Page 2](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender_2.png): Web App Home page.
+!['The Italian Wine Recommender' Web App Homepage GIF](https://github.com/Kanvas33/Italian-Wine-Recommender/blob/main/(GIF)The%20Italian%20Wine%20Recommender.gif): Web App Home page.
 
 
 ## Web App integration *Under Development.*
