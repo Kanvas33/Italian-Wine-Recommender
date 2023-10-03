@@ -6,7 +6,7 @@
 
 ## Frontend: View the GIF of the Web App homepage below:
 
-!['The Italian Wine Recommender' Web App Homepage GIF](https://github.com/Kanvas33/Italian-Wine-Recommender/blob/main/(GIF)The%20Italian%20Wine%20Recommender.gif): Web App Home page.
+!['The Italian Wine Recommender' Web App Homepage GIF](https://github.com/Kanvas33/Italian-Wine-Recommender/blob/main/(GIF)The%20Italian%20Wine%20Recommender.gif)
 
 
 ## Web App integration *Under Development.*
