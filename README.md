@@ -28,7 +28,7 @@ This **Python project is dedicated to wine enthusiasts worldwide**, offering a s
 
 - **Analysis**: The **backend** of the project includes **in-depth analysis**, utilizing **libraries** such as **pandas, sklearn.feature_extraction.text, sklearn.metrics.pairwise, langdetect, and googletrans**.
 
-- **Frontend Development**: The **frontend of the Web Application** is designed using **HTML and CSS**. You can preview the homepage screenshot by clicking on 'Frontend_Recommender.png' in the files section.
+- **Frontend Development**: The **frontend of the Web Application** is designed using **HTML and CSS**. You can preview the homepage GIFs above.
 
 - **Integration (Work in Progress)**: Our ongoing work involves **integrating the backend with the frontend** to provide users with personalized wine recommendations based on their preferences.
 
